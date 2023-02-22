@@ -25,7 +25,7 @@ import { getTradePageUrl } from '../utils/markets';
 import { COMPUTE_UNIT_LIMIT, MAX_PRIORITY_FEE } from '../utils/constants';
 
 const Wrapper = styled.div`
-  background-color: #0d1017;
+  background-color: #d9dadb;
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
@@ -35,7 +35,7 @@ const Wrapper = styled.div`
 const LogoWrapper = styled.div`
   display: flex;
   align-items: center;
-  color: #2abdd2;
+  color: #9efff7;
   font-weight: bold;
   cursor: pointer;
   img {
